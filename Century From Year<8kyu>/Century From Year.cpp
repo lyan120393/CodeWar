@@ -4,7 +4,7 @@ using namespace std;
 int centuryFromYear(int );
 
 int main() {
-	cout << centuryFromYear(2000) << endl;
+	cout << centuryFromYear(20) << endl;
 	
 }
 
